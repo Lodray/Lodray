@@ -1,11 +1,13 @@
 # 👋 Hi there! I'm Zabdiel Mejía
 
-🛡️ I'm enthusiastic and seeking knowledge in personal and public safety to make the internet we all use a freer and safer place
-JUNIOR WEB DEVELOPER AND APP DEVELOPER
+🛡️ i'm learning every day, and i will be the best in my work, don't exist the failure
+
+**JUNIOR WEB DEVELOPER AND APP DEVELOPER**
 🎯 **Junior Cybersecurity Analyst**  
 
+## Next Objetive
 
----
+- Security+ - Febrary/2026
 
 ## 🚀 Skills & Tools
 
