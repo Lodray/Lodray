@@ -1,9 +1,8 @@
 # 👋 Hi there! I'm Zabdiel Mejía
 
-🛡️ “Foundation in software development and IT systems for small businesses — now transitioning into cybersecurity with a Blue Team focus.”
-
-**JUNIOR WEB DEVELOPER AND APP DEVELOPER**
-🎯 **Junior Cybersecurity Analyst**  
+🎯 **Junior Cybersecurity Analyst in training**  
+💻 Background in software development and IT systems for small businesses and academic projects.  
+🛡️ Now transitioning into cybersecurity with a focus on Blue Team operations and security automation with Python. 
 
 ## Next Objetive
 
