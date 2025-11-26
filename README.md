@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Zabdiel Mejía
 
-🛡️ i'm learning every day, and i will be the best in my work, don't exist the failure
+🛡️ “Foundation in software development and IT systems for small businesses — now transitioning into cybersecurity with a Blue Team focus.”
 
 **JUNIOR WEB DEVELOPER AND APP DEVELOPER**
 🎯 **Junior Cybersecurity Analyst**  
