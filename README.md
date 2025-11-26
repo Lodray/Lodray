@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Ruben Zabdiel Mejía Castro
+# 👋 Hi there! I'm Zabdiel Mejía
 
 🛡️ I'm enthusiastic and seeking knowledge in personal and public safety to make the internet we all use a freer and safer place
 JUNIOR WEB DEVELOPER AND APP DEVELOPER
