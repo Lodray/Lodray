@@ -1,34 +1,34 @@
 # 👋 Hi there! I'm Ruben Zabdiel Mejía Castro
 
-🎯 **Junior Cybersecurity Analyst**  
 🛡️ I'm enthusiastic and seeking knowledge in personal and public safety to make the internet we all use a freer and safer place
+JUNIOR WEB DEVELOPER AND APP DEVELOPER
+🎯 **Junior Cybersecurity Analyst**  
+
 
 ---
 
 ## 🚀 Skills & Tools
 
 🔐 **Cybersecurity**
-- Basic Pentesting | OWASP Top 10
-- System Hardening & Vulnerability Management
-- SIEM (Elastic Stack), Nessus, Burp Suite, Wireshark
-- Threat analysis & log investigation
+IN PROGRESS
 
 🐧 **System Administration**
-- Linux (Kali, Ubuntu)
+- Linux (Ubuntu)
 - Windows Server fundamentals
 
 🐍 **Programming & Automation**
-- Python (security automation, log parsing)
 - Git & GitHub | Bash scripting
+- System and scripts for automatizacion tasks
 
 ☁️ **Cloud & DevSecOps**
-- AWS fundamentals | Docker basics
+IN PROGRESS
 
 ---
 
 ## 📌 Featured Projects
 
-📌 *More cybersecurity-focused repositories coming soon…*
+📌 PerrHijosVip- System made for a Hotel Dog business
+📌 FitCam - Proyect made in team for exercises
 
 ---
 
